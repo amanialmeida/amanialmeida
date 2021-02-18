@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/amanialmeida/amanialmeida/blob/main/Amanda%20Abreu600-338.png">
+
 ![](https://github.com/amanialmeida/amanialmeida/blob/main/Amanda%20Abreu1920-1080.png)
 
 <!--
