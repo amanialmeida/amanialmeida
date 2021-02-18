@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg =100x20)
-<img src="https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg" width="48">
+<img src="https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg" width="100" height="20">
 
 <!--
 **amanialmeida/amanialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
