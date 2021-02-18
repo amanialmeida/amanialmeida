@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://amanda2021.jpeg" width="300" height="300">
+<img src="https://github.com/amanialmeida/amanialmeida/blob/main/Amanda%20Abreu600-338.png">
+![](https://github.com/amanialmeida/amanialmeida/blob/main/Amanda%20Abreu600-338.png)
 
 <!--
 **amanialmeida/amanialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
