@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 
 ![](https://github.com/amanialmeida/amanialmeida/blob/main/1.png)
