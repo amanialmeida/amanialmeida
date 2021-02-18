@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg)
+
 <!--
 **amanialmeida/amanialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
