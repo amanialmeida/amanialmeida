@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg =100x20)
+![](https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg)
 <img src="https://github.com/amanialmeida/amanialmeida/blob/main/amanda2021.jpeg" width="300" height="300">
 
 <!--
